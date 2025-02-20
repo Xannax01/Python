@@ -14,6 +14,8 @@ Sigo explorando nuevas ideas y mejorando mis habilidades. 🌟
 🔗 **Ejecutar:**  
 ```bash
 python madlibs.py
+
+
 🛒 Sistema de Compras
 🔹 Introduce el producto, precio y cantidad, y calcula el total de la compra.
 🔹 Ideal para aprender entrada de datos y operaciones básicas en Python.
@@ -24,6 +26,8 @@ bash
 Copiar
 Editar
 python compras.py
+
+
 🚀 Próximos Pasos
 📌 Aprender más sobre estructuras de datos
 📌 Implementar interfaces gráficas (¿quizá con Tkinter? 🤔)
