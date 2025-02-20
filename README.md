@@ -1,9 +1,31 @@
-🐍 Python Projects 🚀
-¡Bienvenido a mi repositorio de proyectos en Python! Aquí encontrarás pequeños proyectos que he ido desarrollando mientras aprendo este lenguaje.
+# 🐍 Bienvenido a mis Proyectos en Python 🚀
 
-📌 Proyectos
-🎭 MadLibs Game: Un juego clásico de completar historias con palabras aleatorias.
-🛒 Sistema de Compras: Un programa básico donde puedes seleccionar productos, ingresar su precio y cantidad, y calcular el total.
-🚀 Próximos pasos
-Seguiré agregando más proyectos a medida que aprenda más sobre Python. ¡Se aceptan sugerencias y mejoras! 😃
+¡Hola! Este es mi repositorio donde subo pequeños proyectos mientras aprendo Python.  
+Sigo explorando nuevas ideas y mejorando mis habilidades. 🌟  
+
+---
+
+## 🎮 Proyectos Actuales
+
+### 🎭 MadLibs Game  
+🔹 Un juego clásico en el que completas una historia con palabras aleatorias.  
+ 
+
+🔗 **Ejecutar:**  
+```bash
+python madlibs.py
+🛒 Sistema de Compras
+🔹 Introduce el producto, precio y cantidad, y calcula el total de la compra.
+🔹 Ideal para aprender entrada de datos y operaciones básicas en Python.
+
+🔗 Ejecutar:
+
+bash
+Copiar
+Editar
+python compras.py
+🚀 Próximos Pasos
+📌 Aprender más sobre estructuras de datos
+📌 Implementar interfaces gráficas (¿quizá con Tkinter? 🤔)
+📌 Agregar más juegos y herramientas útiles
 
