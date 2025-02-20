@@ -11,21 +11,12 @@ Sigo explorando nuevas ideas y mejorando mis habilidades. 🌟
 🔹 Un juego clásico en el que completas una historia con palabras aleatorias.  
  
 
-🔗 **Ejecutar:**  
-```bash
-python madlibs.py
-
 
 🛒 Sistema de Compras
 🔹 Introduce el producto, precio y cantidad, y calcula el total de la compra.
 🔹 Ideal para aprender entrada de datos y operaciones básicas en Python.
 
-🔗 Ejecutar:
 
-bash
-Copiar
-Editar
-python compras.py
 
 
 🚀 Próximos Pasos
