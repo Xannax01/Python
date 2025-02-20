@@ -13,14 +13,20 @@ Sigo explorando nuevas ideas y mejorando mis habilidades. 🌟
 
 
 🛒 Sistema de Compras
+
 🔹 Introduce el producto, precio y cantidad, y calcula el total de la compra.
+
 🔹 Ideal para aprender entrada de datos y operaciones básicas en Python.
+
+
 
 
 
 
 🚀 Próximos Pasos
 📌 Aprender más sobre estructuras de datos
+
 📌 Implementar interfaces gráficas (¿quizá con Tkinter? 🤔)
+
 📌 Agregar más juegos y herramientas útiles
 
